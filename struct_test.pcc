@@ -1,0 +1,17 @@
+var int meh;
+var int yo;
+var int hey;
+
+struct test {
+	int a;
+	int b;
+};
+
+def main : int {
+	int manohman;
+	struct test hello;
+	hello.a 0 =;
+	hello.b 4 =;
+	
+	return 0;
+}
